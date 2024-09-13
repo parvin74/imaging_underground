@@ -4,6 +4,31 @@ site: sandpaper::sandpaper_site
 
 This is a new lesson built with [The Carpentries Workbench][workbench]. 
 
+## Target Audience
+
+Group 1: Civil engineers, geologists, geophysicists, petrophysics, earth sciences.
+Group 2: Medical imaging students 
+
+### Prerequisite Knowledge for Attendees
+
+Attendees must have basic knowledge of porous media and dense materials.
+
+Medical Students: Understand the difference in density between tissues and bones, which is crucial for interpreting medical imaging (e.g., X-rays, MRIs) and diagnosing conditions.
+
+Earth Sciences Students: Be familiar with the density and strength variations in Earth's layers, essential for studying geological processes, earthquake behavior, and resource exploration.
+
+*FIXME add any relevant information about how and why you chose this target audience. 
+Information like this can be helpful for future collaborators/contributors/users to understand the scope of your lesson.*
+
+### Prerequisite skills
+- Basic Python programming
+    1. Understanding of Python syntax and structure (e.g., loops, functions, variables).
+    2. Ability to write and execute simple Python scripts.
+- Working with Python Libraries
+    1. numpy, matplotlib.
+- Porous material
+    1. knowing the nature of non-solid material such as rocks and human-body as two exmaples.
+    2. 
 
 
 
